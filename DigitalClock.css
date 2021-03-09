@@ -1,0 +1,21 @@
+h1{
+    color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.clock{
+    border: 5px aquamarine solid ;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-top: -10px;
+}
+.date{
+    border: 5px aquamarine solid;
+    margin: -80px 0px 20px 0px; 
+
+}
